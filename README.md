@@ -1,4 +1,4 @@
-# notadd_imagemanager
+# notadd_imagemanager   ![Packagist](https://img.shields.io/packagist/v/notadd/imagesmanager.svg)  ![Downloads](https://img.shields.io/packagist/dt/notadd/imagesmanager.svg)
 ImageManager 是一个图片上传及管理插件 
 ## 安装   
 先在前端目录下：/images-manager/resources/mixes/administration    
