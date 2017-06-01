@@ -70,4 +70,8 @@ class GetHandler extends DataHandler
             ],
         ]);
     }
+
+    public function execute()
+    {
+    }
 }
